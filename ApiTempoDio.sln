@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTempoDio", "ApiTempoDio\ApiTempoDio.csproj", "{3071C8EC-165C-4A12-A5B2-10B0640BD3D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTempoDio", "ApiTempoDio.csproj", "{3071C8EC-165C-4A12-A5B2-10B0640BD3D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
