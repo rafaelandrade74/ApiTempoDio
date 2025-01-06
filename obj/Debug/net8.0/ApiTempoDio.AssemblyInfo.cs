@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiTempoDio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1e421da930820f699be04123505802b9e855cad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+245af8484f25b05465a3682faf97bccf83b34776")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiTempoDio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiTempoDio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
