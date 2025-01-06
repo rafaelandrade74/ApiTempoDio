@@ -12,6 +12,8 @@ Api para consulta de previsão do tempo, utilizando C# para o bootcamp da DIO.
 - [Swagger](https://swagger.io/)
 - [Newtonsoft.Json](https://www.newtonsoft.com/json)
 
+# Como configurar o GitHub Actions
+- [Tutorial Microsoft](https://learn.microsoft.com/pt-br/azure/container-instances/container-instances-github-action)
 
 # Como rodar
 
